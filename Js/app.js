@@ -8,7 +8,7 @@ window.addEventListener('blur', () => {
 window.addEventListener('focus', () => {
     document.title = Titulo;
 })
-
+//holalalalalalalal estoy probando
 let h1 = document.getElementById("Titulo");
 let Boton1 = document.getElementById("B1");
 Boton1.addEventListener('click', function() {
